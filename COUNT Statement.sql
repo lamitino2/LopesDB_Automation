@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS StoreCount FROM Sales.Store;
