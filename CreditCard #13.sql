@@ -1,0 +1,1 @@
+SELECT CreditCardID, ExpYear FROM Sales.CreditCard WHERE CreditCardID = 13;
